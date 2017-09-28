@@ -1,2 +1,2 @@
 # learnDevOps
-repository for learning DevOps
+Repository for learning DevOps
